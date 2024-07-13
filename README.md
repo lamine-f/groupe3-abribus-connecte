@@ -104,7 +104,7 @@ Le projet SmartAutoBus est une solution de gestion et de communication pour les 
 │   ├── 20240705_140516.jpg
 │   └── 20240705_140757.jpg
 └── Rapport.pdf
-
+```
 ### Description des Dossiers
 
 - **code** : Contient tout le code source du projet.
